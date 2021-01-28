@@ -1,0 +1,15 @@
+<environment>
+                <parameter>
+                    <key>Browser</key>
+                    <value>chrome</value>
+                </parameter>
+                <parameter>
+                    <key>Browser.Version</key>
+                    <value>87.0</value>
+                </parameter>
+                <parameter>
+                    <key>Executor</key>
+                    <value>http://127.0.0.1:4444/wd/hub</value>
+                </parameter>
+            </environment>
+            
